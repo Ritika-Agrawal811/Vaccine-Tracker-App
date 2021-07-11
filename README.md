@@ -26,9 +26,9 @@ The data is sourced on a real-time basis from the CoWIN API, which is the offici
 <img height="200" width ="400" src = "https://github.com/pallets/flask/blob/main/artwork/logo-full.svg"></img>
 <img height="200" width ="400" src = "https://github.com/Tejas1510/Hacking-Scripts/blob/main/assets/htmllogo.jfif"></img>
 </p>* [Flask](https://github.com/pallets/flask)
-* [HTML](https://www.w3.org/TR/html52/)
+* [HTML](https://www.w3.org/TR/html52)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Bootstrap](https://getbootstrap.com/)
+* [Bootstrap](https://getbootstrap.com)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
